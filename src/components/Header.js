@@ -3,7 +3,9 @@ import { Flex, Text } from '@chakra-ui/react';
 
 const Header = () => {
     return (
-        <div>
+        <div style={{
+          maxWidth: '100vw',
+        }}>
             <Flex flexWrap="wrap" justifyContent="center" alignItems="center" pt="12" pb="5">
         <Flex>
           <Text color="green" fontWeight="bold" m="1" fontSize="2xl">Thousends </Text>
