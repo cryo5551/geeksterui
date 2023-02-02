@@ -90,7 +90,7 @@ justify-content: space-between;
   .main-flex-container{
     /* justify-content: space-between; */
     flex-direction: column;
-    width: 100vw;
+    width: 99vw;
     }
 
 
