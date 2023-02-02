@@ -84,7 +84,7 @@ justify-content: space-between;
   .app{
     background-color: #151f22;
     color: white;
-    max-width:100vw ;
+    width:100vw ;
   }
   
   .main-flex-container{
