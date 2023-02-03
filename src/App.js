@@ -7,6 +7,7 @@ import { ArrowRightIcon, ArrowLeftIcon } from '@chakra-ui/icons';
 
 function App() {
   const [users] = useState(userData);
+  
   const [activeUser, setActiveUser] = useState(1);
 
 
